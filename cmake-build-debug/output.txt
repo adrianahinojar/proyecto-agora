@@ -1,0 +1,4 @@
+acc_4_1_1043,1,Intercambiador Superficie,Paseo de la Castellana 191 B,40.46728,-3.68915,,http://www.crtm.es,2,est_90_21,,1
+acc_4_1_773,1,Intercambiador,Plaza de Castilla 3,40.46621,-3.69028,,http://www.crtm.es,2,est_90_21,,1
+acc_4_10_34,10,Barcelo,Calle de Barcelo 2,40.42628,-3.70082,,http://www.crtm.es,2,est_4_10,,1
+acc_4_16_53,16,Alfonso XII,Paseo de la Infanta Isabel 11,40.40754,-3.68916,,http://www.crtm.s,2,est_90_54,,1
